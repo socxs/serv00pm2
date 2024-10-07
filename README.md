@@ -25,7 +25,6 @@ bash <(curl -s https://raw.githubusercontent.com/socxs/serv00pm2/main/serv00/ins
 ```
 
 ## 卸载PM2步骤
-停止所有PM2进程：
 1. 在卸载PM2之前，建议先停止所有正在运行的PM2进程。可以使用以下命令：
 ```
 pm2 stop all
