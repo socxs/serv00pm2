@@ -18,6 +18,12 @@ Add a Secret in Tool box.
 |-|-|
 |PASSWORD|Your password|
 
+# Deploy pm2 on serv00
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/socxs/serv00pm2/main/serv00/install-pm2.sh)
+```
+
 # Deploy alist on serv00
 
 ```bash
